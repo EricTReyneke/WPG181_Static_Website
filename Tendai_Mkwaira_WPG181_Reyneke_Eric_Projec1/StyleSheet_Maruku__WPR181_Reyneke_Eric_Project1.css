@@ -1,0 +1,120 @@
+﻿body{
+    background-color: wheat;
+}
+nav{
+    float: right;
+}
+li{
+    list-style-type: none;
+    padding-left: 2em;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+}
+a:hover{
+        color: darkgoldenrod;
+        font-size: 34px;
+}
+h1{
+    text-align: center;
+    font-size: 38px;
+    text-decoration: underline;
+    font-style: italic;
+}
+#Img1{
+    margin-left: 72%;
+    height: 400px;
+    width: 600px;
+}
+p{
+    font-size: 32px;
+    text-align: center;
+}
+#Read1{
+    margin-left: 47%;
+    background-color: lightblue;
+    border-radius: 30%;
+}
+article{
+    display: inline-block;
+}
+.Imgh{
+    width: 250px;
+    height: 300px;
+    padding-left: 4.5em;
+    margin-left: 27%;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+#Footer{
+    width: 600px;
+    height: 400px;
+    margin-left: 29%;
+}
+#loginimg{
+    width: 400px;
+    height: 500px;
+    margin-left: 35%;
+}
+input{
+    font-size: 20px;
+}
+label{
+    font-size: 22px;
+    margin-left: 30%;
+}
+#Matriek1{
+    height: 600px;
+    width: 600px;
+}
+.Hotels{
+    display: inline-block;
+    margin-left: 4.2%;
+}
+table{
+    font-size: 26px;
+    margin-left: 34%;
+}
+.Tables{
+    width: 400px;
+    height: 400px;
+    margin-left: 55%;
+    padding-left: 3em;
+}
+#Home2{
+    margin-left: 44%;
+    background-color: lightblue;
+    border-radius: 30%;
+}
+.Food1{
+    width: 400px;
+    height: 400px;
+    padding-left: 2em;
+    margin-left: 66%;
+}
+legend{
+    text-align: center;
+    font-size: 34px;
+    text-decoration: underline;
+    font-style: italic;
+}
+textarea{
+    width: 400px;
+    height: 100px;
+}
+#img4{
+    width: 600px;
+    height: 600px;
+    margin-left: 28%;
+}
+.Hotelp{
+    font-size: 32px;
+    margin-left: 55%;
+}
+#Music{
+    text-decoration:underline;
+}
